@@ -1,91 +1,207 @@
-# Question Design Playbook
+# 経営者インタビュー質問設計
 
-## Principles
+## 目的
 
-### 1. Start Broad, Go Specific
-Begin with open-ended questions, then drill down into specifics.
+経営者の「意思決定の軸」と「未来への在り方」を対話で言語化し、記録として残す。
 
-**Example:**
-- "Tell me about your journey in [field]"
-- "What was a pivotal moment in that journey?"
-- "How did that moment change your approach?"
+## 質問設計の原則
 
-### 2. Use the "Why" Ladder
-Ask "why" multiple times to get to deeper insights.
+1. **意思決定の軸を探る**：なぜその判断をしたのか、何を基準にしているのか
+2. **未来への在り方を描く**：これからどうありたいか、どんな未来を創りたいか
+3. **ストーリーを引き出す**：抽象的な理念ではなく、具体的なエピソードから
+4. **本質に迫る**：表面的な答えではなく、深層にある価値観や信念を
 
-**Example:**
-- "Why did you start this project?"
-- "Why was that important to you?"
-- "Why does that matter to your audience?"
+---
 
-### 3. Ask for Stories, Not Just Facts
-Stories are more engaging than abstract concepts.
+## Q1：現在の経営状況と課題
 
-**Example:**
-- Instead of: "What are your key principles?"
-- Try: "Can you share a story that illustrates your approach?"
+**質問：**
+「現在の経営状況を教えてください。特に、今直面している課題やチャレンジは何でしょうか？」
 
-### 4. Use Follow-up Questions
-Build on their answers rather than just moving to the next question.
+**目的：**
+- 現状把握
+- 課題の言語化
+- インタビューの文脈づくり
 
-**Example:**
-- "That's interesting. Can you tell me more about [specific point]?"
-- "How did that make you feel?"
-- "What did you learn from that experience?"
+**フォローアップ：**
+- 「その課題はいつ頃から感じていましたか？」
+- 「その課題が解決されると、どんな状態になりますか？」
 
-## Question Categories
+---
 
-### Opening Questions
-- "Tell me about yourself and your work"
-- "What are you most excited about right now?"
-- "What's the story behind [specific project/achievement]?"
+## Q2：意思決定の基準・判断軸
 
-### Deep Dive Questions
-- "What was the biggest challenge you faced?"
-- "What surprised you most about [experience]?"
-- "What would you do differently if you could?"
+**質問：**
+「経営判断をするとき、あなたは何を基準に決めていますか？例えば、新しい事業を始めるかどうか、人を採用するかどうか、そういった判断の時に大切にしていることは何ですか？」
 
-### Insight Questions
-- "What's something most people don't understand about [topic]?"
-- "What advice would you give to someone starting out?"
-- "What's a common misconception you'd like to correct?"
+**目的：**
+- 意思決定の軸を明確にする
+- 価値観や判断基準の言語化
 
-### Closing Questions
-- "What's next for you?"
-- "What are you most looking forward to?"
-- "Is there anything else you'd like to share?"
+**フォローアップ：**
+- 「その基準はいつ頃から意識するようになりましたか？」
+- 「その基準に従わなかった時、どんなことが起きましたか？」
 
-## Question Templates
+---
 
-### The "How" Question
-"How did you [accomplish/achieve/overcome] [specific thing]?"
+## Q3：創業・経営を始めたきっかけ
 
-### The "What If" Question
-"What if [scenario]? How would that change things?"
+**質問：**
+「この事業を始めたきっかけや、経営者になろうと思ったきっかけを教えてください。」
 
-### The "Tell Me About" Question
-"Tell me about a time when [specific situation]."
+**目的：**
+- 原点の確認
+- 動機の言語化
+- ストーリーの起点
 
-### The "What's Your Take" Question
-"What's your take on [current trend/controversy]?"
+**フォローアップ：**
+- 「その時、どんな感情でしたか？」
+- 「もしそのきっかけがなかったら、今の自分はどうなっていたと思いますか？」
 
-### The "Behind the Scenes" Question
-"What's something people don't know about [topic/process]?"
+---
 
-## Red Flags to Avoid
+## Q4：最も困難だった経験とそこから学んだこと
 
-- Leading questions that suggest a desired answer
-- Yes/no questions (unless followed by "why")
-- Multiple questions in one (ask one at a time)
-- Questions that are too personal or invasive
-- Questions that show you haven't done research
+**質問：**
+「経営者として、これまでで最も困難だった経験は何ですか？そして、その経験から何を学びましたか？」
 
-## Tips
+**目的：**
+- 困難を乗り越えた経験の言語化
+- 学習と成長の記録
+- レジリエンスの源泉を探る
 
-- Prepare 10-15 core questions, but be flexible
-- Listen actively and ask follow-ups
-- Don't be afraid of silence - let them think
-- If they go off-topic, gently guide back
-- Take notes on interesting points to revisit
-- Ask for clarification if something is unclear
+**フォローアップ：**
+- 「その困難をどう乗り越えましたか？」
+- 「その経験が今の経営にどう活かされていますか？」
 
+---
+
+## Q5：経営理念・ビジョン
+
+**質問：**
+「あなたの経営理念や、この会社が目指す未来のビジョンを教えてください。」
+
+**目的：**
+- 理念の言語化
+- 未来への方向性の明確化
+
+**フォローアップ：**
+- 「その理念はいつ頃、どうやって生まれましたか？」
+- 「その理念を実現するために、今何をしていますか？」
+
+---
+
+## Q6：チーム・組織への想い
+
+**質問：**
+「一緒に働くメンバーや、この組織に対して、どんな想いを持っていますか？どんなチームでありたいですか？」
+
+**目的：**
+- 組織観の言語化
+- リーダーシップの在り方を探る
+
+**フォローアップ：**
+- 「理想のチームの姿を具体的に教えてください」
+- 「そのために、あなたが意識していることは何ですか？」
+
+---
+
+## Q7：顧客・社会への価値提供
+
+**質問：**
+「お客様や社会に対して、どんな価値を提供したいと考えていますか？なぜそれが大切だと思いますか？」
+
+**目的：**
+- 価値提供の言語化
+- 社会との関係性の明確化
+
+**フォローアップ：**
+- 「その価値を提供できた時、どんな反応がありましたか？」
+- 「その価値が実現された未来は、どんな世界ですか？」
+
+---
+
+## Q8：10年後の未来像
+
+**質問：**
+「10年後、あなた自身やこの会社は、どんな状態になっていたいですか？どんな未来を創りたいですか？」
+
+**目的：**
+- 未来への在り方を描く
+- 長期ビジョンの言語化
+
+**フォローアップ：**
+- 「その未来を実現するために、今から何を始めますか？」
+- 「その未来が実現された時、どんな気持ちになっていると思いますか？」
+
+---
+
+## Q9：経営者としての在り方
+
+**質問：**
+「経営者として、どんな在り方でありたいですか？どんな経営者であり続けたいですか？」
+
+**目的：**
+- 在り方の言語化
+- アイデンティティの明確化
+
+**フォローアップ：**
+- 「その在り方を実現するために、日々意識していることは何ですか？」
+- 「その在り方に反する時、どんなことが起きますか？」
+
+---
+
+## Q10：次世代へのメッセージ
+
+**質問：**
+「これから経営者になろうとする人や、今経営で悩んでいる人に、どんなメッセージを伝えたいですか？」
+
+**目的：**
+- 知見の言語化
+- メッセージの明確化
+- 記事の締めくくりに使える
+
+**フォローアップ：**
+- 「そのメッセージは、あなた自身のどんな経験から生まれましたか？」
+- 「そのメッセージを実践すると、どんな変化が起きると思いますか？」
+
+---
+
+## お土産の章：インタビュー後の振り返り
+
+**質問：**
+「今日のインタビューを通じて、改めて気づいたことや、言語化できて良かったことはありますか？また、これから意識していきたいことはありますか？」
+
+**目的：**
+- インタビュー自体の価値を高める
+- 振り返りの機会を提供
+- 関係性を深める
+
+**フォローアップ：**
+- 「今日の対話で、何か新しい気づきはありましたか？」
+- 「このインタビューが記事になった時、どんな人に読んでほしいですか？」
+
+---
+
+## インタビュー進行のコツ
+
+1. **時間配分**：各質問に5-10分程度。全体で60-90分を目安
+2. **柔軟性**：質問の順番は変えてもOK。流れに合わせて調整
+3. **深掘り**：表面的な答えが出たら、フォローアップで深掘り
+4. **沈黙を恐れない**：考える時間を与える
+5. **共感を示す**：「なるほど」「それは大切ですね」など、適度に反応
+6. **記録**：重要なフレーズはその場でメモ。後で確認できるように
+
+---
+
+## 記事化のポイント
+
+- **Q1-Q3**：導入部分、背景説明に活用
+- **Q4-Q6**：中盤、ストーリー展開に活用
+- **Q7-Q9**：核心部分、理念と在り方の言語化
+- **Q10**：締めくくり、メッセージとして
+- **お土産の章**：記事の最後、読者への問いかけとして
+
+---
+
+*この質問設計は、経営者の「意思決定の軸」と「未来への在り方」を言語化することを目的としています。インタビュー時は、相手の話をよく聞き、自然な会話の流れを大切にしながら、本質に迫る対話を心がけてください。*

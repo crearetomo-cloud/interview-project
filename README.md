@@ -1,27 +1,12 @@
-# Interview Project
+# Interview Project（経営者インタビュー企画）
 
-A structured system for conducting, documenting, and publishing interviews.
+目的：経営者の「意思決定の軸」と「未来への在り方」を対話で言語化し、記録として残す。  
+提供価値：インタビュー後に、プロフィール・記事・紹介用文章として使える形に整えて渡す。
 
-## Overview
+## フォルダ構造
 
-This project provides a comprehensive framework for managing the interview process from initial outreach to final publication. It includes templates, playbooks, and documentation to ensure consistency and quality across all interviews.
-
-## Structure
-
-- **docs/**: Project documentation and process guides
-- **playbooks/**: Best practices and guidelines for interviews and writing
-- **content/**: Interview content and templates
-- **assets/**: Media files (images, audio)
-
-## Getting Started
-
-1. Review the [Project Overview](docs/project-overview.md)
-2. Familiarize yourself with the [Workflow](docs/process/workflow.md)
-3. Use the templates in `content/interviews/_template/` for new interviews
-
-## Quick Links
-
-- [Outreach Templates](docs/outreach/)
-- [Interview Playbooks](playbooks/interview/)
-- [Writing Guidelines](playbooks/writing/)
+- docs/：依頼文、許諾、運用フロー
+- playbooks/：質問設計・進行・文章化の型
+- content/：案件ごとの成果物（1社=1フォルダ）
+- assets/：画像・音声素材
 
