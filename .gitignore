@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
+
+# Audio/Video files (large files - consider Git LFS)
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.mov
+*.avi
+
+# Large files
+*.zip
+*.tar.gz
+
+# Personal notes (if any)
+notes/
+personal/
+
